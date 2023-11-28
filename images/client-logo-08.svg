@@ -1,0 +1,54 @@
+<svg width="91" height="32" viewBox="0 0 91 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="91" height="32" fill="#1E1E1E"/>
+<g id="QM" clip-path="url(#clip0_0_1)">
+<rect width="1920" height="3770" transform="translate(-1417 -3422)" fill="white"/>
+<rect id="BG" x="-1417" y="-3422" width="1920" height="3770" fill="#0D0E13"/>
+<g id="Logo">
+<g id="logo-w 1" clip-path="url(#clip1_0_1)">
+<path id="Vector" d="M0 0V7.2H4V24.1H0V30.9H21.5V24.1H17.4V7.2H21.5V0H0Z" fill="white"/>
+<g id="Group">
+<g id="Clip path group">
+<mask id="mask0_0_1" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="91" height="32">
+<g id="SVGID_2_">
+<path id="Vector_2" d="M91 0H0V31.5H91V0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_0_1)">
+<path id="Vector_3" d="M22.6 7.30005V14H25.6V24.1H22.6V30.8H39.4V24.1H36.2V18.3C36.2 15.8 38.1 14 40.5 14C42.4 14 44 15 44 17.1V24.1H40.9V30.8H57.3V24.2001V24.1H54.6V15.2C54.6 9.50005 50.4 7.40005 45.3 7.40005C41.7 7.40005 38.9 8.40005 36.5 11.2C36.3 11.4 36.1 11.7 35.9 11.8V7.30005H22.6Z" fill="white"/>
+</g>
+</g>
+<g id="Clip path group_2">
+<mask id="mask1_0_1" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="91" height="32">
+<g id="SVGID_2__2">
+<path id="Vector_4" d="M91 0H0V31.5H91V0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask1_0_1)">
+<path id="Vector_5" d="M71.0999 7.3999C63.5999 7.3999 56.3 11.0999 56.2 19.3999C56.2 21.1999 56.4999 22.6999 57.0999 24.0999V24.1999C59.2999 29.1999 65.1 31.3999 71 31.3999C75.7999 31.3999 82.4 30.2999 83.9 22.8999L84 22.0999H75.3H75C75 24.5999 73.1999 25.7999 71.1999 25.7999C67.2999 25.7999 67 22.4999 67 19.3999V19.2999C67 16.1999 67.2999 12.8999 71.1999 12.8999C74.2999 12.8999 74.8 15.5999 74.9 18.0999L84 17.0999C83 7.9999 73.8999 7.3999 71.5999 7.3999C71.2999 7.3999 71.0999 7.3999 71.0999 7.3999Z" fill="white"/>
+</g>
+</g>
+</g>
+<g id="Group_2">
+<g id="Clip path group_3">
+<mask id="mask2_0_1" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="91" height="32">
+<g id="SVGID_4_">
+<path id="Vector_6" d="M91 0H0V31.5H91V0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask2_0_1)">
+<path id="Vector_7" d="M83.4 27.1C83.4 29.2 85.1 30.9 87.2 30.9C89.3 30.9 91 29.2 91 27.1C91 25.0001 89.3 23.3 87.2 23.3C85.1 23.3 83.4 25.0001 83.4 27.1Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1920" height="3770" fill="white" transform="translate(-1417 -3422)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="91" height="31.4" fill="white"/>
+</clipPath>
+</defs>
+</svg>
